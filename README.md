@@ -1,3 +1,4 @@
 # Demo
 
-Building further git skills.
+Building further git skills!
+Trying new things.
